@@ -8,5 +8,9 @@ so
 what
 git33
 collision noway
+<<<<<<< HEAD
 git dev
 nonono
+=======
+git 
+>>>>>>> 290dacd... fixed
