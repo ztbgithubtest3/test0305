@@ -8,6 +8,6 @@ so
 what
 git33
 collision noway
-git dev
+git
 nonono
 
