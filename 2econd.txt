@@ -8,13 +8,6 @@ so
 what
 git33
 collision noway
-<<<<<<< HEAD
-<<<<<<< HEAD
 git dev
 nonono
-=======
-git 
->>>>>>> 290dacd... fixed
-=======
-git 
->>>>>>> 290dacd... fixed
+
